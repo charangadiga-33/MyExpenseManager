@@ -1,0 +1,17 @@
+/config
+    db.php
+/public
+    index.php
+    login.php
+    register.php
+    logout.php
+    dashboard.php
+    expense-add.php
+    expense-list.php
+    expense-report.php
+/includes
+    header.php
+    footer.php
+    navbar.php
+/sql
+    schema.sql
