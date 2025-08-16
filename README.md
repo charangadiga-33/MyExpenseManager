@@ -7,4 +7,4 @@ Features:
 - Monthly reports & CSV export  
 - Categories & budget alerts (new feature)  
 
-Developed by [Your Name].
+Developed by [CHARAN.G].
